@@ -20,7 +20,7 @@ const Navbar = ()=>{
       <li className=" mx-5">
         <NavLink   aria-current="page" className={({isActive})=>{
             return isActive?" text-success  text-decoration-none":" text-info  text-decoration-none"
-        }} to='/'>Home</NavLink>
+        }} to='/Portfolio-Using-React-Js'>Home</NavLink>
         </li>
         <li className=" mx-5">
         <NavLink  className={({isActive})=>{
