@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Using-React-Js/static/css/main.4fce1ef9.css",
+    "main.js": "/Portfolio-Using-React-Js/static/js/main.9da80348.js",
+    "static/media/pic3.jpg": "/Portfolio-Using-React-Js/static/media/pic3.ea31afbda1dbd602116f.jpg",
+    "static/media/pic4.jpg": "/Portfolio-Using-React-Js/static/media/pic4.90804d4da8baed4d0f86.jpg",
+    "static/media/manwithalaptop (1).jpg": "/Portfolio-Using-React-Js/static/media/manwithalaptop (1).2ce44fb482aec58e1f88.jpg",
+    "static/media/pic5.jpg": "/Portfolio-Using-React-Js/static/media/pic5.988e2de0a22db26ef8d1.jpg",
+    "static/media/piiic.jpg": "/Portfolio-Using-React-Js/static/media/piiic.b5ceebdfb42de766fabb.jpg",
+    "static/media/whitewithlaptopandphone.jpg": "/Portfolio-Using-React-Js/static/media/whitewithlaptopandphone.dc354e40a27061300565.jpg",
+    "static/media/pic1.jpg": "/Portfolio-Using-React-Js/static/media/pic1.4f100af434ca90f47b99.jpg",
+    "static/media/pic6.jpg": "/Portfolio-Using-React-Js/static/media/pic6.9262bff5b0e4dceb75e7.jpg",
+    "static/media/pic2.jpg": "/Portfolio-Using-React-Js/static/media/pic2.f8aa2af66bdaa9a0b3b2.jpg",
+    "index.html": "/Portfolio-Using-React-Js/index.html",
+    "main.4fce1ef9.css.map": "/Portfolio-Using-React-Js/static/css/main.4fce1ef9.css.map",
+    "main.9da80348.js.map": "/Portfolio-Using-React-Js/static/js/main.9da80348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fce1ef9.css",
+    "static/js/main.9da80348.js"
+  ]
+}
