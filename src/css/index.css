@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+section{
+ background-color: black;
+ height: 35rem;
+ width: 100%;
+}
+
+.colo{
+    background-color: rgb(0, 0, 0);
+}
+img{
+    height: 35rem;
+    margin-left: 6rem;
+}
+.imm{
+    background-image: url('../pics/piiic.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 60rem;
+   
+}
+.background_home{
+    background-image: url('../pics/pic6.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 40rem;
+}
+.background_contact{
+    background-image: url('../pics/whitewithlaptopandphone.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 40rem;
+}
+
+.service_color{
+    background-color: aquamarine;
+}
+.service_col{
+    background-color: lightgoldenrodyellow;
+}
+
+.h1{
+    color: paleturquoise;
+    font-family:Raleway;
+}
+
+.home_text{
+    color: rgb(38, 40, 41);
+}
+
+.service_img{
+    height: 29rem;
+    margin-left: 0rem;
+}
+
+.text_home{
+    position: absolute;
+    top: 10rem;
+    left: 6rem;
+}
+
+.for{
+    position: absolute;
+    right: 1rem;
+    top: 7rem;
+}
+@media screen and (max-width: 850px) {
+    .background_home{
+        background-image: url('../pics/pic6.jpg');
+        background-size: cover;
+        width: 100%;
+        height: 60rem;
+    }
+}
+
+@media screen and (max-width:400px){
+    .background_home{
+        background-image: url('../pics/manwithalaptop (1).jpg');
+        background-size: cover;
+        width: 100%;
+        height: 60rem;
+    }
+    .text_home {
+        position: absolute;
+        top: 8rem;
+        left: 0rem;
+        
+    }
+    .home_text{
+        color: ivory;
+    }
+
+    .background_contact{
+        background-image: url('../pics/whitewithlaptopandphone.jpg');
+        background-size: cover;
+        width: 100%;
+        height: 60rem;
+    }
+    .for {
+        position: absolute;
+        left: 3rem;
+        top: 21rem;
+    }
+}
